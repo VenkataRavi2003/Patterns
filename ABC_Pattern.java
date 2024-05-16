@@ -34,6 +34,7 @@ public class ABC_Pattern{
 			}
 			System.out.print(" ");
 
+			//C
 			for (int j = 0 ; j < n; ++j) {
 				
 				if((j == 0 && i != 0 && i != n-1)||(i == 0 && j != 0)||(i == n-1 && j != 0))
