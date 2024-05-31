@@ -16,5 +16,6 @@ class ZeroPattern{
 			}
 			System.out.println();
 		}
+		sc.close();
 	}
 }
